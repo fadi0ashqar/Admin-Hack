@@ -89,8 +89,8 @@ If the tool fails, follow these steps:
 #### here you can see a screenshot of AdminHack
 <br>
 <p align="center">
-<img width="50%" src="https://repository-images.githubusercontent.com/367960316/89758719-06b4-4679-8631-5f4558cb38a3"/> 
-<img width="50%" src="https://drive.google.com/file/d/1Cpd0ZgDkjl3SA0dKDhjMyDaQ1yLd8jxg/view"/>
+<img width="70%" src="https://repository-images.githubusercontent.com/367960316/89758719-06b4-4679-8631-5f4558cb38a3"/> 
+
 </p>
 
 
