@@ -1,3 +1,4 @@
+
 # Z E R O - H A C K   FADI
 <img width="99.9%" src="https://i0.wp.com/it-solutions.center/wp-content/uploads/2022/02/digitalforensic.jpg?fit=800%2C450&ssl=1"/>
 
@@ -82,19 +83,28 @@ If the tool fails, follow these steps:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fadiAlashqar?country.x=IL&locale.x=en_US)
 
+
 ## Screenshot
 
 #### here you can see a screenshot of AdminHack
 <br>
 <p align="center">
-<img width="43.5%" src="src/IMG_20210809_124540.jpg"/> 
-<img width="56.5%" src="src/IMG_20210814_122526.jpg"/>
+<img width="43.5%" src="https://repository-images.githubusercontent.com/367960316/89758719-06b4-4679-8631-5f4558cb38a3"/> 
+
 </p>
 
+
+# NOTE : 
+Please decompress the src.rar file and put it next to the other files
 
 
 # CONTACT
 [![Facebook](https://www.facebook.com/profile.php?id=100017399581867)
 [![Github](https://github.com/z3ro-hack)
 
+
+
+## DONATION 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fadiAlashqar?country.x=IL&locale.x=en_US)
 
